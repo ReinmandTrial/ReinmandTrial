@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="webtricks-master.ru" width="22px" src="../../tree/main/images/linkedind.svg" />][linkedin]
+[<img align="left" alt="webtricks-master.ru" width="22px" src="https://www.flaticon.com/ru/premium-icon/linkedin_3536505?term=linkedin&page=1&position=2&page=1&position=2&related_id=3536505&origin=search" />][linkedin]
 [<img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][]
 [<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
