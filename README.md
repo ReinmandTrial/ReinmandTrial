@@ -2,18 +2,20 @@
 
 ### Hi there 👋, I'm Maksym
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
 
-## I'm a FrontEnd Developer, and Teacher
-- 💪 I like to write code
-- 🎉 I love to paint and play the guitar
-- 🥅 I am constantly learning new things
-- ⚡ I love writing an article for https://webtricks-master.ru/
-- 🤹🏽 I like to shoot videos for youtube 
+## Creator of the team that makes IT products
+- 💪 We developing websites
+- 🎉 We drawing up technical specifications
+- 🥅 We take care of identity
+- 💪 We develop mobile applications
+- ⚡ We automate processes, create bots, parsers, optimise processes
+- 🤹🏽 We do design websites, banners, emails
+- 💪 We do machine learning and can even do BigData
+
 
 ### Connect with me:
 
-[<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="webtricks-master.ru" width="22px" src="linkedin.sbg" />][website]
 [<img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
